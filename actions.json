@@ -1,0 +1,333 @@
+{
+    "screen_resolution": {
+        "width": 1366,
+        "height": 768
+    },
+    "profiles": {
+        "david (9-1) - NFT": {
+            "shortcut_path": "C:/Users/testnet/Desktop/david (9-1) - NFT.lnk"
+        },
+        "Margo (9-2) - NFT": {
+            "shortcut_path": "C:/Users/testnet/Desktop/Margo (9-2) - NFT.lnk"
+        },
+        "macek (9-3) - NFT": {
+            "shortcut_path": "C:/Users/testnet/Desktop/macek (9-3) - NFT.lnk"
+        },
+        "hybert (9-4) - NFT": {
+            "shortcut_path": "C:/Users/testnet/Desktop/hybert (9-4) - NFT.lnk"
+        },
+        "dominik (9-5) -nft": {
+            "shortcut_path": "C:/Users/testnet/Desktop/dominik (9-5) -nft.lnk"
+        },
+        "agneshka (9-6) -nft": {
+            "shortcut_path": "C:/Users/testnet/Desktop/agneshka (9-6) -nft.lnk"
+        },
+        "dorota (9-7) - nft": {
+            "shortcut_path": "C:/Users/testnet/Desktop/dorota (9-7) - nft.lnk"
+        },
+        "marcin (9-8) nft": {
+            "shortcut_path": "C:/Users/testnet/Desktop/marcin (9-8) nft.lnk"
+        },
+        "andrei (9-10) - Chrome": {
+            "shortcut_path": "C:/Users/testnet/Desktop/andrei (9-10) - Chrome.lnk"
+        },
+        "(q1) -AK-1": {
+            "shortcut_path": "C:/Users/testnet/Desktop/(q1) -AK-1.lnk"
+        },
+        "q2 -AK-2": {
+            "shortcut_path": "C:/Users/testnet/Desktop/q2 -AK-2.lnk"
+        },
+        "q4 - AK-4": {
+            "shortcut_path": "C:/Users/testnet/Desktop/q4 - AK-4.lnk"
+        }
+    },
+    "templates": {
+        "vce": {
+            "profiles": [
+                "david (9-1) - NFT",
+                "marcin (9-8) nft",
+                "hybert (9-4) - NFT",
+                "macek (9-3) - NFT",
+                "Margo (9-2) - NFT",
+                "agneshka (9-6) -nft",
+                "dorota (9-7) - nft",
+                "q2 -AK-2",
+                "(q1) -AK-1",
+                "q4 - AK-4",
+                "andrei (9-10) - Chrome",
+                "dominik (9-5) -nft"
+            ],
+            "actions": [
+                {
+                    "action": "site",
+                    "x": 87,
+                    "y": 95,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome",
+                        "(q1) -AK-1",
+                        "q2 -AK-2",
+                        "q4 - AK-4"
+                    ],
+                    "delay": 15.0
+                },
+                {
+                    "action": "kon mal",
+                    "x": 1279,
+                    "y": 116,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome",
+                        "(q1) -AK-1",
+                        "q2 -AK-2",
+                        "q4 - AK-4"
+                    ],
+                    "delay": 20.0
+                },
+                {
+                    "action": "valet",
+                    "x": 667,
+                    "y": 310,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome",
+                        "(q1) -AK-1",
+                        "q2 -AK-2",
+                        "q4 - AK-4"
+                    ],
+                    "delay": 20.0
+                },
+                {
+                    "action": "pas",
+                    "x": 1008,
+                    "y": 352,
+                    "type": "введення_тексту",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome",
+                        "(q1) -AK-1",
+                        "q2 -AK-2",
+                        "q4 - AK-4"
+                    ],
+                    "text": "ppremiumm",
+                    "delay": 20.0
+                },
+                {
+                    "action": "unlok",
+                    "x": 1097,
+                    "y": 504,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome",
+                        "(q1) -AK-1",
+                        "q2 -AK-2",
+                        "q4 - AK-4"
+                    ],
+                    "delay": 20.0
+                },
+                {
+                    "action": "kon mal 2",
+                    "x": 1282,
+                    "y": 118,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome",
+                        "(q1) -AK-1",
+                        "q2 -AK-2",
+                        "q4 - AK-4"
+                    ]
+                },
+                {
+                    "action": "sign",
+                    "x": 1102,
+                    "y": 656,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome",
+                        "(q1) -AK-1",
+                        "q2 -AK-2",
+                        "q4 - AK-4"
+                    ]
+                },
+                {
+                    "action": "confirm",
+                    "x": 1053,
+                    "y": 658,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome",
+                        "(q1) -AK-1",
+                        "q2 -AK-2",
+                        "q4 - AK-4"
+                    ]
+                },
+                {
+                    "action": "gm",
+                    "x": 1159,
+                    "y": 551,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome",
+                        "(q1) -AK-1",
+                        "q2 -AK-2",
+                        "q4 - AK-4"
+                    ]
+                },
+                {
+                    "action": "exit",
+                    "x": 1345,
+                    "y": 18,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome",
+                        "(q1) -AK-1",
+                        "q2 -AK-2",
+                        "q4 - AK-4"
+                    ]
+                }
+            ]
+        },
+        "тест": {
+            "profiles": [
+                "(q1) -AK-1"
+            ],
+            "actions": [
+                {
+                    "action": "клік",
+                    "x": 95,
+                    "y": 95,
+                    "type": "клік",
+                    "profiles": [
+                        "(q1) -AK-1"
+                    ]
+                },
+                {
+                    "action": "2",
+                    "x": 1284,
+                    "y": 120,
+                    "type": "клік",
+                    "profiles": [
+                        "(q1) -AK-1"
+                    ],
+                    "delay": 5.0
+                },
+                {
+                    "action": "кош",
+                    "x": 648,
+                    "y": 307,
+                    "type": "клік",
+                    "profiles": [
+                        "(q1) -AK-1"
+                    ],
+                    "delay": 5.0
+                },
+                {
+                    "action": "rkod",
+                    "x": 1009,
+                    "y": 329,
+                    "type": "введення_тексту",
+                    "profiles": [
+                        "(q1) -AK-1"
+                    ],
+                    "text": "ppremiumm",
+                    "delay": 5.0
+                }
+            ]
+        },
+        "kk": {
+            "profiles": [],
+            "actions": []
+        },
+        "fkh": {
+            "profiles": [],
+            "actions": []
+        },
+        "ghkk": {
+            "profiles": [],
+            "actions": []
+        },
+        "fghkg": {
+            "profiles": [],
+            "actions": []
+        }
+    }
+}

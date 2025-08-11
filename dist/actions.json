@@ -1,0 +1,228 @@
+{
+    "screen_resolution": {
+        "width": 1366,
+        "height": 768
+    },
+    "profiles": {
+        "david (9-1) - NFT": {
+            "shortcut_path": "C:/Users/testnet/Desktop/david (9-1) - NFT.lnk"
+        },
+        "Margo (9-2) - NFT": {
+            "shortcut_path": "C:/Users/testnet/Desktop/Margo (9-2) - NFT.lnk"
+        },
+        "macek (9-3) - NFT": {
+            "shortcut_path": "C:/Users/testnet/Desktop/macek (9-3) - NFT.lnk"
+        },
+        "hybert (9-4) - NFT": {
+            "shortcut_path": "C:/Users/testnet/Desktop/hybert (9-4) - NFT.lnk"
+        },
+        "dominik (9-5) -nft": {
+            "shortcut_path": "C:/Users/testnet/Desktop/dominik (9-5) -nft.lnk"
+        },
+        "agneshka (9-6) -nft": {
+            "shortcut_path": "C:/Users/testnet/Desktop/agneshka (9-6) -nft.lnk"
+        },
+        "dorota (9-7) - nft": {
+            "shortcut_path": "C:/Users/testnet/Desktop/dorota (9-7) - nft.lnk"
+        },
+        "marcin (9-8) nft": {
+            "shortcut_path": "C:/Users/testnet/Desktop/marcin (9-8) nft.lnk"
+        },
+        "andrei (9-10) - Chrome": {
+            "shortcut_path": "C:/Users/testnet/Desktop/andrei (9-10) - Chrome.lnk"
+        }
+    },
+    "templates": {
+        "vce": {
+            "profiles": [
+                "david (9-1) - NFT",
+                "Margo (9-2) - NFT",
+                "macek (9-3) - NFT",
+                "hybert (9-4) - NFT",
+                "dominik (9-5) -nft",
+                "agneshka (9-6) -nft",
+                "dorota (9-7) - nft",
+                "marcin (9-8) nft",
+                "andrei (9-10) - Chrome"
+            ],
+            "actions": [
+                {
+                    "action": "site",
+                    "x": 87,
+                    "y": 95,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome"
+                    ],
+                    "delay": 15.0
+                },
+                {
+                    "action": "kon mal",
+                    "x": 1279,
+                    "y": 116,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome"
+                    ],
+                    "delay": 20.0
+                },
+                {
+                    "action": "valet",
+                    "x": 667,
+                    "y": 310,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome"
+                    ],
+                    "delay": 20.0
+                },
+                {
+                    "action": "pas",
+                    "x": 1008,
+                    "y": 352,
+                    "type": "введення_тексту",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome"
+                    ],
+                    "text": "ppremiumm",
+                    "delay": 20.0
+                },
+                {
+                    "action": "unlok",
+                    "x": 1097,
+                    "y": 504,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome"
+                    ],
+                    "delay": 20.0
+                },
+                {
+                    "action": "kon mal 2",
+                    "x": 1282,
+                    "y": 118,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome"
+                    ]
+                },
+                {
+                    "action": "sign",
+                    "x": 1102,
+                    "y": 656,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome"
+                    ]
+                },
+                {
+                    "action": "confirm",
+                    "x": 1053,
+                    "y": 658,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome"
+                    ]
+                },
+                {
+                    "action": "gm",
+                    "x": 1159,
+                    "y": 551,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome"
+                    ]
+                },
+                {
+                    "action": "exit",
+                    "x": 1345,
+                    "y": 18,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT",
+                        "Margo (9-2) - NFT",
+                        "macek (9-3) - NFT",
+                        "hybert (9-4) - NFT",
+                        "dominik (9-5) -nft",
+                        "agneshka (9-6) -nft",
+                        "dorota (9-7) - nft",
+                        "marcin (9-8) nft",
+                        "andrei (9-10) - Chrome"
+                    ]
+                }
+            ]
+        }
+    }
+}
